@@ -7,3 +7,11 @@ Repositorio creado para el curso Aprendizaje automático
 ### [Instalador Orange](https://orangedatamining.com/download/#windows)
 ### [Orange Pipeline](https://github.com/mleyvaz/CursoMachineLearning/raw/main/titanic.ows)
 ### [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic/overview)
+
+# Bibliográfia
+1.	Aston, Z., Zachary, C. L., Mu, L., & Alexander, J. S. (2020). Dive into Deep Learning. http://d2l.ai/
+2.	Géron, A. (2019). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: Concepts, tools, and techniques to build intelligent systems. O'Reilly Media.
+3.	Nielsen, M. A. (2015). Neural networks and deep learning (Vol. 25). San Francisco, CA: Determination press.
+4.	Theobald, O. (2017). Machine learning for absolute beginners: a plain English introduction (p. 157). Scatterplot Press.
+5.	Vemuri, V. K. (2020). The Hundred-Page Machine Learning Book: by Andriy Burkov, Quebec City, Canada, 2019, 160 pp., 49.99(Hardcover); 29.00 (paperback); 25.43(KindleEdition),(Alternatively,canpurchaseatleanpub.comataminimumpriceof 20.00), ISBN 978-1999579517.
+
