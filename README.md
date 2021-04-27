@@ -8,7 +8,7 @@ Repositorio creado para el curso Aprendizaje automático
 ### [Orange Pipeline](https://github.com/mleyvaz/CursoMachineLearning/raw/main/titanic.ows)
 ### [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic/overview)
 
-# Bibliográfia
+# Bibliografía
 1.	Aston, Z., Zachary, C. L., Mu, L., & Alexander, J. S. (2020). Dive into Deep Learning. http://d2l.ai/
 2.	Géron, A. (2019). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: Concepts, tools, and techniques to build intelligent systems. O'Reilly Media.
 3.	Nielsen, M. A. (2015). Neural networks and deep learning (Vol. 25). San Francisco, CA: Determination press.
