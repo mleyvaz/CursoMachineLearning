@@ -6,4 +6,4 @@ Repositorio creado para el curso Aprendizaje automático
 ### [Dataset-Titanic](https://github.com/mleyvaz/CursoMachineLearning/blob/main/TitanicDataset.rar?raw=true)
 ### [Instalador Orange](https://orangedatamining.com/download/#windows)
 ### [Orange Pipeline](https://github.com/mleyvaz/CursoMachineLearning/raw/main/titanic.ows)
-### [Kaggle Titanic Competition](hhttps://www.kaggle.com/c/titanic/overview)
+### [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic/overview)
