@@ -12,7 +12,7 @@ Repositorio creado para el curso Aprendizaje automático utilizando la herramien
 ### [Housing-XAI](https://github.com/mleyvaz/CursoMachineLearning/blob/main/housing.ows)
 ### [Attrition-XAI](https://github.com/mleyvaz/CursoMachineLearning/blob/main/housing.ows)
 # Dia 3  Materiales
-### [Presentación]()
+### [Presentación](https://github.com/mleyvaz/CursoMachineLearning/blob/main/Dia-3.pdf)
 ### [Image analitics]()
 
 
