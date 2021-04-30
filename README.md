@@ -13,7 +13,8 @@ Repositorio creado para el curso Aprendizaje automático utilizando la herramien
 ### [Attrition-XAI](https://github.com/mleyvaz/CursoMachineLearning/blob/main/housing.ows)
 # Dia 3  Materiales
 ### [Presentación](https://github.com/mleyvaz/CursoMachineLearning/blob/main/Dia-3.pdf)
-### [Image analitics]()
+### [Image analitycs](https://github.com/mleyvaz/CursoMachineLearning/blob/main/Painters.ows)
+### [Dataset](https://github.com/mleyvaz/CursoMachineLearning/blob/main/TitanicDataset.rar)
 
 
 # Bibliografía
