@@ -11,6 +11,10 @@ Repositorio creado para el curso Aprendizaje automático utilizando la herramien
 ### [Presentación](https://www.researchgate.net/publication/351134599_Aprendizaje_automatico)
 ### [Housing-XAI](https://github.com/mleyvaz/CursoMachineLearning/blob/main/housing.ows)
 ### [Attrition-XAI](https://github.com/mleyvaz/CursoMachineLearning/blob/main/housing.ows)
+# Dia 3  Materiales
+### [Presentación]()
+### [Image analitics]()
+
 
 # Bibliografía
 1.	Aston, Z., Zachary, C. L., Mu, L., & Alexander, J. S. (2020). Dive into Deep Learning. http://d2l.ai/
