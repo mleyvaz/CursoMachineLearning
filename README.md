@@ -7,7 +7,7 @@ Repositorio creado para el curso Aprendizaje automático utilizando la herramien
 ### [Instalador Orange](https://orangedatamining.com/download/#windows)
 ### [Orange Pipeline](https://github.com/mleyvaz/CursoMachineLearning/raw/main/titanic.ows)
 ### [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic/overview)
-# Dia 1  Materiales
+# Dia 2  Materiales
 ### [Presentación](https://www.researchgate.net/publication/351134599_Aprendizaje_automatico)
 ### [Housing-XAI](https://github.com/mleyvaz/CursoMachineLearning/blob/main/housing.ows)
 ### [Attrition-XAI](https://github.com/mleyvaz/CursoMachineLearning/blob/main/housing.ows)
